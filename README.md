@@ -7,8 +7,7 @@ Excursion
 - [Setup & Use]()
 
 ## Description & General Info
-This repository contains a Codecademy off-platform project from the Full Stack Engineer course "Deploying Websites" unit. 
-This project was an oppertunity to use a design mock and redline mock to create a web page as well as practice using Git to commit and push changes to this GitHub repository.
+This repository contains a Codecademy off-platform project from the Full Stack Engineer [course](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path) "Deploying Websites" unit. This project was an oppertunity to use a design mock and redline mock to create a web page as well as practice using Git to commit and push changes to this GitHub repository.
 
 ## Languages & Technologies
 - HTML
